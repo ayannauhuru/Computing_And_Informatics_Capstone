@@ -1,2 +1,2 @@
 # CICapstone2022
-A final project building a website for the Computing and Informatics Capstone 2022 course. 
+A website built as a final group project for the Computing and Informatics Capstone 2022 course. Our group created a travel website forGermany. For my part of the project, I connected to the Google Maps API to provide a list of popular museums in Berlin. I connected to the API and parsed its data using R...
