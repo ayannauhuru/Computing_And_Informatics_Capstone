@@ -25,9 +25,9 @@
 <?php
 
   $servername ="sql5.freemysqlhosting.net";
-  $username ="sql5475001";
-  $password= "EkPC5F21V8";
-  $dbname ="sql5475001";
+  $username ="";
+  $password= "";
+  $dbname ="";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
