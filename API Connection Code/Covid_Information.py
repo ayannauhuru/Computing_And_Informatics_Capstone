@@ -5,9 +5,9 @@ json_obj=json.loads(json_data)
 
 db = mysql.connector.connect(
     host="sql5.freemysqlhosting.net",
-    user="sql5475001",
-    password="EkPC5F21V8",
-    database="sql5475001"
+    user="",
+    password="",
+    database=""
 )
 
 
