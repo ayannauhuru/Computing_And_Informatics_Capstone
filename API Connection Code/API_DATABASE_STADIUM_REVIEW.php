@@ -43,8 +43,8 @@ echo("> \nWriting data to Database\n");
 
 class Database {
     private static $dsn = "mysql:host=sql5.freemysqlhosting.net;dbname=sql5475001";
-    private static $username = 'sql5475001';
-    private static $password = 'EkPC5F21V8';
+    private static $username = '';
+    private static $password = '';
     private static $db;
     private function __construct() {}
     public static function getDB () {
