@@ -3,7 +3,7 @@ import requests
 import json
 import datetime
 
-api_key = "da6a0807c524b6cf549757a7ceadc7ba"
+api_key = ""
 units = "metric"
 lat = "52.5200"
 lon = "13.4050"
@@ -19,9 +19,9 @@ db = mysql.connector.connect(
     #host="localhost",
     #user="root",
     host="sql5.freemysqlhosting.net",
-    user="sql5475001",
-    password="EkPC5F21V8",
-    database="sql5475001"
+    user="",
+    password="",
+    database=""
 )
 
 mycursor = db.cursor()
